@@ -3,7 +3,8 @@
   "description": "backup组件可轻松完成数据备份与恢复操作",
   "type": "project",
   "keywords": [
-    "数据库备份"
+    "数据库备份",
+	"backup组件"
   ],
   "license": "MIT",
   "minimum-stability": "stable",
