@@ -1,0 +1,26 @@
+{
+  "name": "zongphp/backup",
+  "description": "backup组件",
+  "keywords": [
+    "zongphp",
+    "数据库备份"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "zongphp/config": "~2.0",
+    "zongphp/arr": "~2.0",
+    "zongphp/db": "~2.0",
+    "zongphp/cache": "~2.0",
+    "zongphp/dir": "~2.0",
+    "zongphp/database": "~2.0",
+    "zongphp/cookie": "~2.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\backup\\": "src"
+    }
+  }
+}
